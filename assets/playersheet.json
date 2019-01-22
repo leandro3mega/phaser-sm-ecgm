@@ -1,0 +1,256 @@
+{
+	"frames": [
+		{
+			"filename": "ramboStoped1.png",
+			"frame": {
+				"x": 3,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboStoped2.png",
+			"frame": {
+				"x": 43,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboStoped3.png",
+			"frame": {
+				"x": 83,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboStoped4.png",
+			"frame": {
+				"x": 123,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun1.png",
+			"frame": {
+				"x": 163,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun2.png",
+			"frame": {
+				"x": 203,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun3.png",
+			"frame": {
+				"x": 243,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun4.png",
+			"frame": {
+				"x": 283,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun5.png",
+			"frame": {
+				"x": 323,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun6.png",
+			"frame": {
+				"x": 363,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun7.png",
+			"frame": {
+				"x": 403,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun8.png",
+			"frame": {
+				"x": 443,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun9.png",
+			"frame": {
+				"x": 483,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboRun10.png",
+			"frame": {
+				"x": 523,
+				"y": 19.5,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp1.png",
+			"frame": {
+				"x": 3,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp2.png",
+			"frame": {
+				"x": 43,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp3.png",
+			"frame": {
+				"x": 83,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp4.png",
+			"frame": {
+				"x": 123,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp5.png",
+			"frame": {
+				"x": 163,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp6.png",
+			"frame": {
+				"x": 203,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp7.png",
+			"frame": {
+				"x": 243,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpUp8.png",
+			"frame": {
+				"x": 283,
+				"y": 72,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpRight1.png",
+			"frame": {
+				"x": 3,
+				"y": 127,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpRight2.png",
+			"frame": {
+				"x": 43,
+				"y": 127,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpRight3.png",
+			"frame": {
+				"x": 83,
+				"y": 127,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpRight4.png",
+			"frame": {
+				"x": 123,
+				"y": 127,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpRight5.png",
+			"frame": {
+				"x": 163,
+				"y": 127,
+				"w": 40,
+				"h": 48
+			}
+		},
+		{
+			"filename": "ramboJumpRight6.png",
+			"frame": {
+				"x": 203,
+				"y": 127,
+				"w": 40,
+				"h": 48
+			}
+		}
+	]
+}

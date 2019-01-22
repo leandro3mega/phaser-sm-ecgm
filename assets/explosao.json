@@ -1,0 +1,201 @@
+{
+    "frames": [{
+            "filename": "explosao1.png",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 48.5,
+                "h": 106.352
+            }
+        },
+        {
+            "filename": "explosao2.png",
+            "frame": {
+                "x": 0,
+                "y": 106.352,
+                "w": 48.5,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao3.png",
+            "frame": {
+                "x": 48.5,
+                "y": 106.352,
+                "w": 56,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao4.png",
+            "frame": {
+                "x": 104.5,
+                "y": 106.352,
+                "w": 56,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao5.png",
+            "frame": {
+                "x": 160.5,
+                "y": 106.352,
+                "w": 56,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao6.png",
+            "frame": {
+                "x": 216.5,
+                "y": 106.352,
+                "w": 56,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao7.png",
+            "frame": {
+                "x": 272.5,
+                "y": 106.352,
+                "w": 56,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao8.png",
+            "frame": {
+                "x": 328.5,
+                "y": 106.352,
+                "w": 56,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao9.png",
+            "frame": {
+                "x": 0,
+                "y": 216.499,
+                "w": 48.5,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao10.png",
+            "frame": {
+                "x": 48.5,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao11.png",
+            "frame": {
+                "x": 98.25,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao12.png",
+            "frame": {
+                "x": 148,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao13.png",
+            "frame": {
+                "x": 197.75,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao14.png",
+            "frame": {
+                "x": 247.5,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao15.png",
+            "frame": {
+                "x": 297.25,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao16.png",
+            "frame": {
+                "x": 347,
+                "y": 216.499,
+                "w": 49.75,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao17.png",
+            "frame": {
+                "x": 0,
+                "y": 322.852,
+                "w": 48.5,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao18.png",
+            "frame": {
+                "x": 48.5,
+                "y": 322.852,
+                "w": 50.375,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao19.png",
+            "frame": {
+                "x": 98.875,
+                "y": 322.852,
+                "w": 51.625,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao20.png",
+            "frame": {
+                "x": 150.5,
+                "y": 322.852,
+                "w": 54,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao21.png",
+            "frame": {
+                "x": 204.5,
+                "y": 322.852,
+                "w": 56.25,
+                "h": 106.353
+            }
+        },
+        {
+            "filename": "explosao22.png",
+            "frame": {
+                "x": 258,
+                "y": 322.852,
+                "w": 30,
+                "h": 106.353
+            }
+        }
+    ]
+}

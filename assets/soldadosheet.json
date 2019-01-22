@@ -1,0 +1,313 @@
+{
+	"frames": [
+		{
+			"filename": "soldadoRun1.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 33.5 ,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun2.png",
+			"frame": {
+				"x": 33.5,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun3.png",
+			"frame": {
+				"x": 67,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun4.png",
+			"frame": {
+				"x": 100.5,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun5.png",
+			"frame": {
+				"x": 134,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun6.png",
+			"frame": {
+				"x": 167.5,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun7.png",
+			"frame": {
+				"x": 201,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun8.png",
+			"frame": {
+				"x": 234.5,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun9.png",
+			"frame": {
+				"x": 268,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun10.png",
+			"frame": {
+				"x": 301.5,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun11.png",
+			"frame": {
+				"x": 335,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoRun12.png",
+			"frame": {
+				"x": 368.5,
+				"y": 0,
+				"w": 33.5,
+				"h": 44
+			}
+		},
+		{
+			"filename": "soldadoScared1.png",
+			"frame": {
+				"x": 0,
+				"y": 53.375,
+				"w": 38.833,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared2.png",
+			"frame": {
+				"x": 38.833,
+				"y": 53.375,
+				"w": 43.5,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared3.png",
+			"frame": {
+				"x": 82.333,
+				"y": 53.375,
+				"w": 45.5,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared4.png",
+			"frame": {
+				"x": 131.5,
+				"y": 53.375,
+				"w": 43.376,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared5.png",
+			"frame": {
+				"x": 175,
+				"y": 53.375,
+				"w": 44.124,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared6.png",
+			"frame": {
+				"x": 219,
+				"y": 53.375,
+				"w": 44.333,
+				"h": 43.719
+			}
+		},
+
+
+
+
+		{
+			"filename": "soldadoScared7.png",
+			"frame": {
+				"x": 219,
+				"y": 53.375,
+				"w": 44.333,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared8.png",
+			"frame": {
+				"x": 175,
+				"y": 53.375,
+				"w": 44.124,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared9.png",
+			"frame": {
+				"x": 131.5,
+				"y": 53.375,
+				"w": 43.376,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared10.png",
+			"frame": {
+				"x": 82.333,
+				"y": 53.375,
+				"w": 45.5,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared11.png",
+			"frame": {
+				"x": 38.833,
+				"y": 53.375,
+				"w": 43.5,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared12.png",
+			"frame": {
+				"x": 0,
+				"y": 53.375,
+				"w": 38.833,
+				"h": 43.719
+			}
+		},
+		{
+			"filename": "soldadoScared13.png",
+			"frame": {
+				"x": 0,
+				"y": 97.094,
+				"w": 33.667,
+				"h": 44.576
+			}
+		},
+
+
+
+
+		{
+			"filename": "soldadoSacaArma1.png",
+			"frame": {
+				"x": 0,
+				"y": 97.094,
+				"w": 33.667,
+				"h": 44.576
+			}
+		},
+		{
+			"filename": "soldadoSacaArma2.png",
+			"frame": {
+				"x": 33.667 ,
+				"y": 97.094,
+				"w": 31.167,
+				"h": 44.576
+			}
+		},
+		{
+			"filename": "soldadoSacaArma3.png",
+			"frame": {
+				"x": 64.833,
+				"y": 97.094,
+				"w": 31.833,
+				"h": 44.576
+			}
+		},
+		{
+			"filename": "soldadoSacaArma4.png",
+			"frame": {
+				"x": 96.667,
+				"y": 97.094,
+				"w": 36.833,
+				"h": 44.576
+			}
+		},
+		{
+			"filename": "soldadoSacaArma5.png",
+			"frame": {
+				"x": 133.5,
+				"y": 97.094,
+				"w": 39.5,
+				"h": 44.576
+			}
+		},
+		{
+			"filename": "soldadoSacaArma6.png",
+			"frame": {
+				"x": 173,
+				"y": 97.094,
+				"w": 43,
+				"h": 44.576
+			}
+		},
+		{
+			"filename": "soldadoSacaArma7.png",
+			"frame": {
+				"x": 216,
+				"y": 97.094,
+				"w": 51.5,
+				"h": 44.576
+			}
+		},
+
+
+
+
+		{
+			"filename": "soldadoShooting1.png",
+			"frame": {
+				"x": 216,
+				"y": 97.094,
+				"w": 51.5,
+				"h": 44.576
+			}
+		}
+	]
+}
